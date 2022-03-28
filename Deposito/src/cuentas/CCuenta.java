@@ -1,5 +1,7 @@
 package cuentas;
-
+/**
+ * Éste es un comentario de prueba
+ * */
 public class CCuenta {
 
     private String nombre;
